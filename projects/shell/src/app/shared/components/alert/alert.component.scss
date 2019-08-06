@@ -1,0 +1,20 @@
+.alerts-list {
+    position: fixed;
+    display: flex;
+    flex-direction: column-reverse;
+    left: 0;
+    bottom: 1.75rem;
+    width: 100%;
+}
+
+.alert {
+    position: relative;
+}
+
+.alert__close {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 1.5rem;
+    cursor: pointer;
+}

@@ -1,0 +1,11 @@
+@import 'variables';
+
+.autocomplete__message-container {
+    height: 2rem;
+}
+
+@media screen and (max-width: $mobile-break) {
+    .autocomplete__message-container {
+        height: 1.75rem;
+    }   
+}

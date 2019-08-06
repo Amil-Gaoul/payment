@@ -2,6 +2,13 @@
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": "./",
+    "paths": {
+      "@components": [ "projects/shell/src/app/shared/components" ],
+      "@models": [ "projects/shell/src/app/shared/models" ],
+      "@pipes": [ "projects/shell/src/app/shared/pipes" ],
+      "@enums": [ "projects/shell/src/app/shared/enums" ],
+      "@services": [ "projects/shell/src/app/core/services" ]
+    },
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
     "declaration": false,

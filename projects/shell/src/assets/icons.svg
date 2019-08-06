@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px">
+    <defs>
+        <g id="cross">
+            <path fill="#448AFF" fill-rule="nonzero" d="M12.707 12l7.147 7.146a.5.5 0 0 1-.708.708L12 12.707l-7.146 7.147a.5.5 0 0 1-.708-.708L11.293 12 4.146 4.854a.5.5 0 1 1 .708-.708L12 11.293l7.146-7.147a.5.5 0 0 1 .708.708L12.707 12z"/>
+        </g>
+        <g id="success">
+            <polygon fill="#28A745" fill-rule="nonzero" points="142.8,323.85 35.7,216.75 0,252.45 142.8,395.25 448.8,89.25 413.1,53.55"/>
+        </g>
+    </defs>
+</svg>
